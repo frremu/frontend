@@ -227,7 +227,7 @@ const Details: React.FC = () => {
                 my: 3,
               }}
             >
-              Transform your brand's narrative: Elevate your ads with the ultimate marketing haven!
+                  Transform your brand&apos;s narrative: Elevate your ads with the ultimate marketing haven!
             </Typography>
 
             <Typography

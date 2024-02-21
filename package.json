@@ -12,7 +12,9 @@
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.18",
-    "@mui/material": "^5.15.1",
+    "@mui/lab": "^5.0.0-alpha.158",
+    "@mui/material": "^5.15.2",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.10",
     "@mui/x-charts": "^6.18.4",
     "@tabler/icons": "^2.44.0",
     "apexcharts": "^3.45.1",
@@ -29,6 +31,7 @@
     "react-dom": "^18.2.0",
     "react-facebook": "^9.0.12",
     "react-helmet-async": "^2.0.4",
+    "styled-components": "^6.1.6",
     "universal-cookie": "^6.1.1",
     "zustand": "^4.4.7"
   },
@@ -40,8 +43,9 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/react-helmet": "^6.1.11",
-    "eslint": "^8",
+    "eslint": "^8.56.0",
     "eslint-config-next": "14.0.3",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "typescript": "^5"
   }
 }

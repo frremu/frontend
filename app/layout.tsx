@@ -17,14 +17,14 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <Head>
+      {/* <Head>
         <Script
           async
           defer
           crossOrigin="anonymous"
           src="https://connect.facebook.net/en_US/sdk.js"
         /> 
-      </Head>
+      </Head> */}
       <body className={inter.className}>
         <Chatbot chatbotId="qgRc6KZSbQAPJObsnYrPL" domain="www.chatbase.co"  />
         {children}
